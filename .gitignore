@@ -1,0 +1,11 @@
+*.pyc
+*.pid
+*.log
+
+*.env/*
+*.vagrant/*
+*.logs/*
+__pycache__
+
+*media/*
+

@@ -1,0 +1,6 @@
+alembic
+Flask
+Jinja2
+pytz
+SQLAlchemy
+Werkzeug
